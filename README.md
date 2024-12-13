@@ -1,3 +1,4 @@
+# Chat-Application
 
 This is a real-time chat application implemented using WebSockets, allowing users to send and receive messages instantly. The application supports features such as joining different rooms for specific conversations and managing peer-to-peer communication through a single WebSocket connection.
 
