@@ -20,23 +20,30 @@ WebSocket Protocol: For real-time communication
 
 ### Backend Installation
 1. Navigate to the backend directory:
+   ```bash
    cd backend
-
+   ```
 2. Install dependencies:
+   ```bash
    npm install
-   
+   ```
 3. Start the backend server:
+   ```bash
    npm start
+   ```
 
 ### Frontend Installation
 1. Navigate to the frontend directory:
+   ```bash
    cd frontend
-   
+   ```
 2. Install dependencies:
+   ```bash
    npm install
-   
+   ```
 3. Start the frontend development server:
+   ```bash
    npm start
+   ```
 
 
-   
