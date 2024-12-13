@@ -12,7 +12,7 @@ Single WebSocket Connection: All communication is handled efficiently through a 
 
 ### Tech Stack
 
-Backend: Node.js with WebSocket or Socket.IO
+Backend: Node.js with WebSocket and Webrtc
 
 Frontend: Typescript, JavaScript, Tailwind CSS
 
